@@ -39,7 +39,7 @@ body{
 	font-weight: 300;
 	opacity: 0.9;
 }
-.right button{
+.right input{
   text-align: center;
   cursor: pointer;
   margin: 2px 0;
